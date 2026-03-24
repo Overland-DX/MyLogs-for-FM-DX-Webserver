@@ -1,5 +1,8 @@
 # FMList Analyzer for FM-DX Webserver
 
+<img width="1899" height="909" alt="Skjermbilde fra 2026-03-24 01-51-50" src="https://github.com/user-attachments/assets/e44a239c-040d-482e-9c57-9abc80653abb" />
+
+
 A powerful plugin for the **FM-DX Webserver** that makes it easy to explore, analyze, and share your personal fmlist.org logs. 
 
 Originally ported from a legacy PHP script, this modern dashboard brings your FM DXing logs to life with rich statistics, interactive charts, and integrated media playback for your catches.
